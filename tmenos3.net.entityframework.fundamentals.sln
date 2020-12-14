@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TMenos3.Net.EntityFramework.Fundamentals.Demo", "tmenos3.net.entityframework.fundamentals.demo\TMenos3.Net.EntityFramework.Fundamentals.Demo.csproj", "{05034A4F-B959-49EA-8DFC-C902CA73F885}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TMenos3.Net.EntityFramework.Fundamentals.GettingStarted", "tmenos3.net.entityframework.fundamentals.gettingstarted\TMenos3.Net.EntityFramework.Fundamentals.GettingStarted.csproj", "{800FC126-72F6-403D-BD70-B968FF85A0C9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TMenos3.Net.EntityFramework.Fundamentals.Web", "tmenos3.net.entityframework.fundamentals.web\TMenos3.Net.EntityFramework.Fundamentals.Web.csproj", "{8A6AFF25-699D-4B68-9F9A-C060832E03D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMenos3.Net.EntityFramework.Fundamentals.Utils", "TMenos3.Net.EntityFramework.Fundamentals.Utils\TMenos3.Net.EntityFramework.Fundamentals.Utils.csproj", "{FF6E4B77-E390-49C0-AFBC-95BD93DF9121}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05034A4F-B959-49EA-8DFC-C902CA73F885}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05034A4F-B959-49EA-8DFC-C902CA73F885}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05034A4F-B959-49EA-8DFC-C902CA73F885}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05034A4F-B959-49EA-8DFC-C902CA73F885}.Release|Any CPU.Build.0 = Release|Any CPU
+		{800FC126-72F6-403D-BD70-B968FF85A0C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{800FC126-72F6-403D-BD70-B968FF85A0C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{800FC126-72F6-403D-BD70-B968FF85A0C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{800FC126-72F6-403D-BD70-B968FF85A0C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A6AFF25-699D-4B68-9F9A-C060832E03D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A6AFF25-699D-4B68-9F9A-C060832E03D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A6AFF25-699D-4B68-9F9A-C060832E03D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A6AFF25-699D-4B68-9F9A-C060832E03D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF6E4B77-E390-49C0-AFBC-95BD93DF9121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF6E4B77-E390-49C0-AFBC-95BD93DF9121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF6E4B77-E390-49C0-AFBC-95BD93DF9121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF6E4B77-E390-49C0-AFBC-95BD93DF9121}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5AFDC3D-5D15-4292-A2FC-458EA0F4B518}
+	EndGlobalSection
+EndGlobal
